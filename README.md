@@ -23,17 +23,6 @@ Add your timetable using ```<td>``` tag.
 ### STEP 6
 Execute the program using runserver command.
 
-
-
-
-
-
-
-
-
-
-
-
 ## PROGRAM
 
 # index.html
@@ -138,7 +127,6 @@ Execute the program using runserver command.
             <td>Advanced Quantitative and Logical Reasoning(AQLR)</td>
 		</tr>
 	</table>
-	</body>
 </body>
 </html>
 ```

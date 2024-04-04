@@ -25,6 +25,10 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
+
+
+
+
 # index.html
 ```
 <!DOCTYPE html>
